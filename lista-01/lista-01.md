@@ -3,7 +3,7 @@
   <h4> Instituto de Ciências Exatas e Informática </h4>
   Curso: Ciência da Computação <br/>
   Disciplina: Otimização de Sistemas <br/>
-  Professor: Dorirley Rodrigo Alves <br/>  
+  Professor: Dorirley Rodrigo Alves <br/>
   Aluno: Luigi Domenico (553229) <br/>
   17 de Fevereiro de 2019
 </center>
@@ -12,16 +12,12 @@
 
 ### Problema 1 - Fábrica de Mármores
 
-<span style="text-align: justify">
-
 Uma empresa que trabalha com mármores e granitos fabrica soleiras e peitoris. Ela repassa para os
 revendedores tendo um lucro de R$ 7,00 por soleira e R$ 8,50 por peitoril. Cada soleira tem 0,6 m² de
 área e cada peitoril tem área de 0,8 m². A empresa dispõe de 16 m² de granito diariamente para fazer
 as peças e tem 5 funcionários que trabalham 6 horas por dia. Na confecção de uma soleira gastam-se
 24 minutos e na confecção do peitoril, 20. Sabendo que toda a produção é absorvida pelo mercado,
 construa o modelo matemático de produção diária que maximiza o lucro da empresa.
-
-</span>
 
 |             | Soleira | Peitoril | Disponibilidade                   |
 |:------------|:-------:|:--------:|:---------------------------------:|
@@ -44,8 +40,6 @@ construa o modelo matemático de produção diária que maximiza o lucro da empr
 
 ### Problema 2 - Fábrica de Bicicletas
 
-<span style="text-align: justify">
-
 A empresa Ciclo S.A. faz montagem de dois tipos de bicicletas: a do tipo Padrão e a do tipo Clássico.
 Ela recebe as peças de outras empresas e a montagem passa por duas oficinas. A montagem de uma
 bicicleta tipo Padrão requer uma hora na oficina I e duas horas e meia na oficina II. A montagem de
@@ -55,8 +49,6 @@ disponibilidade de 32 funcionários que trabalham, também, as mesmas 8 horas di
 A demanda diária de bicicleta tipo Clássico é de 40 peças. Sabendo que a bicicleta modelo padrão
 Padrão dá uma contribuição para o lucro de R$ 38,00 e a modelo Clássico dá R$ 49,00, determine o
 modelo de programação linear que maximiza o lucro da empresa.
-
-</span>
 
 |                   | Oficina I                          | Oficina II                          | Lucro    | Demanda |
 |:------------------|:----------------------------------:|:-----------------------------------:|:--------:|:-------:|
@@ -80,8 +72,6 @@ modelo de programação linear que maximiza o lucro da empresa.
 
 ### Problema 3 - Fábrica de Móveis
 
-<span style="text-align: justify">
-
 Uma fábrica de móveis para escritórios produz estantes e mesas para computadores. Cada estante
 gasta 2,5 m² de madeira, 14 parafusos, 0,40 kg de cola, 8 puxadores e 6 dobradiças e cada mesa para
 computador gasta 2,0 m² de madeira, 18 parafusos, 0,22 kg de cola, 2 puxadores e 4 dobradiças. A
@@ -92,8 +82,6 @@ dispõe, diariamente, de 90 m² de madeira, 7 caixas de parafusos contendo, cada
 uma contendo 12 peças. No mercado a empresa obtém um lucro de R$ 45,00 por cada estante vendida
 e R$ 36,00 por cada mesa para computador. O mercado impõe uma demanda máxima de 16 estantes
 e 25 mesas. Determine o modelo matemático para esse problema que maximiza o lucro da empresa.
-
-</span>
 
 |              | Estante  | Mesa p/ computadores | Disponibilidade                 |
 |:-------------|:--------:|:--------------------:|:-------------------------------:|
@@ -128,8 +116,6 @@ e 25 mesas. Determine o modelo matemático para esse problema que maximiza o luc
 
 ### Problema 4 - Cestas de Alimentos
 
-<span style="text-align: justify">
-
 O Supermercado Coma Bem oferece aos seus clientes dois tipos de cestas de alimentos: a cesta Simples
 e a cesta Padrão, contendo, cada uma delas, os seguintes alimentos:
 
@@ -143,8 +129,6 @@ kg de arroz. Sabe-se que a cesta do tipo Simples não vende mais do que 44 unida
 Sabe-se, ainda, que uma cesta do tipo Simples é vendida por R$ 14,00 e uma do tipo Padrão, por
 R$ 22,00. Quais as quantidades de cestas de ambos os tipos devem ser vendidas, naquele dia, para que
 a receita do supermercado seja máxima? Modele este problema.
-
-</span>
 
 |              | Cesta Simples  | Cesta Padrão | Disponibilidade               |
 |:-------------|:--------------:|:------------:|:-----------------------------:|
